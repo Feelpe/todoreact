@@ -34,7 +34,6 @@ export function TaskList() {
     setTasks(newState);
     // Altere entre `true` ou `false` o campo `isComplete` de uma task com dado ID
   }
-  console.log(tasks)
 
   function handleRemoveTask(id: number) {
     const filteredTask = tasks.filter(task => task.id !== id);
