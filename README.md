@@ -4,12 +4,12 @@ forked from rocketseat-education/ignite-template-reactjs-conceitos-do-react
 A project for training React states and typescript. \
 It's a simple todo list.
 
-# Running the app
+## Running the app
 
-## Dependent of 
+### Dependent of 
 yarn
 
-## In the project directory, you can run:
+### In the project directory, you can run:
 
 ```bash
   #Installation
